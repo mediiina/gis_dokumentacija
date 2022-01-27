@@ -1,0 +1,8 @@
+site_name: Pollution Alerts
+site_url: https://gis.com/
+theme:
+    name: cinder
+
+nav:
+    - Web aplikacija: index.md
+    - Mobilna aplikacija: mobilna.md
